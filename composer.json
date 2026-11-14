@@ -1,0 +1,14 @@
+{
+    "name": "facerc/attendance-system",
+    "description": "Face Recognition Attendance System using AWS Rekognition",
+    "type": "project",
+    "require": {
+        "php": ">=7.4.0",
+        "aws/aws-sdk-php": "^3.173"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "includes/"
+        }
+    }
+} 

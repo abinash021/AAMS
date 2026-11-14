@@ -1,0 +1,46 @@
+[22-Apr-2025 07:35:30 Europe/Berlin] [2025-04-22 07:35:30] Starting live_attendance.php in C:\xampp\htdocs\facerc\attendance\live_attendance.php on line 31 (detailed_error_log)
+[22-Apr-2025 07:35:30 Europe/Berlin] [2025-04-22 07:35:30] Loading config in C:\xampp\htdocs\facerc\attendance\live_attendance.php on line 43 (detailed_error_log)
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Config loaded
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - AWS config validated
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - All required files loaded
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Checking database at path: C:\xampp\htdocs\facerc\config/../db/attendance.db
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Checking user permissions
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - User is logged in and is admin
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Initializing database connection
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Database connection successful
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Initializing required classes
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Student class initialized
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Attendance class initialized
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - Rekognition class initialized
+[22-Apr-2025 05:35:30 UTC] 2025-04-22 05:35:30 - All classes initialized successfully
+[22-Apr-2025 05:35:31 UTC] 2025-04-22 05:35:31 - AWS Collection check: Success
+[22-Apr-2025 05:35:31 UTC] 2025-04-22 05:35:31 - Attempting to get all classes
+[22-Apr-2025 05:35:31 UTC] Database query error: SQLSTATE[HY000]: General error: 1 no such column: c.class_name
+[22-Apr-2025 05:35:31 UTC] 2025-04-22 05:35:31 - getAllClasses result - false
+[22-Apr-2025 05:35:31 UTC] 2025-04-22 05:35:31 - Failed to get classes, checking if tables exist
+[22-Apr-2025 05:35:31 UTC] 2025-04-22 05:35:31 - Classes table does not exist
+[22-Apr-2025 05:35:31 UTC] 2025-04-22 05:35:31 - Error in live_attendance.php: Database tables not initialized. Please run the database initialization script. (Line: 134, File: C:\xampp\htdocs\facerc\attendance\live_attendance.php)
+[22-Apr-2025 05:35:31 UTC] 2025-04-22 05:35:31 - Stack trace: #0 {main}
+[22-Apr-2025 07:35:58 Europe/Berlin] [2025-04-22 07:35:58] Starting live_attendance.php in C:\xampp\htdocs\facerc\attendance\live_attendance.php on line 31 (detailed_error_log)
+[22-Apr-2025 07:35:58 Europe/Berlin] [2025-04-22 07:35:58] Loading config in C:\xampp\htdocs\facerc\attendance\live_attendance.php on line 43 (detailed_error_log)
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Config loaded
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - AWS config validated
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - All required files loaded
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Checking database at path: C:\xampp\htdocs\facerc\config/../db/attendance.db
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Checking user permissions
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - User is logged in and is admin
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Initializing database connection
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Database connection successful
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Initializing required classes
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Student class initialized
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Attendance class initialized
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - Rekognition class initialized
+[22-Apr-2025 05:35:58 UTC] 2025-04-22 05:35:58 - All classes initialized successfully
+[22-Apr-2025 05:35:59 UTC] 2025-04-22 05:35:59 - AWS Collection check: Success
+[22-Apr-2025 05:35:59 UTC] 2025-04-22 05:35:59 - Attempting to get all classes
+[22-Apr-2025 05:35:59 UTC] Database query error: SQLSTATE[HY000]: General error: 1 no such column: c.class_name
+[22-Apr-2025 05:35:59 UTC] 2025-04-22 05:35:59 - getAllClasses result - false
+[22-Apr-2025 05:35:59 UTC] 2025-04-22 05:35:59 - Failed to get classes, checking if tables exist
+[22-Apr-2025 05:35:59 UTC] 2025-04-22 05:35:59 - Classes table does not exist
+[22-Apr-2025 05:35:59 UTC] 2025-04-22 05:35:59 - Error in live_attendance.php: Database tables not initialized. Please run the database initialization script. (Line: 134, File: C:\xampp\htdocs\facerc\attendance\live_attendance.php)
+[22-Apr-2025 05:35:59 UTC] 2025-04-22 05:35:59 - Stack trace: #0 {main}
