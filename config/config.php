@@ -1,7 +1,7 @@
 <?php
 // General site configuration
-define('SITE_NAME', 'Face Recognition Attendance System');
-define('BASE_URL', 'http://localhost/face-website');
+define('SITE_NAME', 'AAMS');
+define('BASE_URL', 'http://localhost/AAMS');
 
 // Database configuration
 define('DB_PATH', __DIR__ . '/../db/attendance.db');
@@ -19,10 +19,10 @@ define('MAX_UPLOAD_SIZE', 5 * 1024 * 1024); // 5MB
 define('ALLOWED_EXTENSIONS', ['jpg', 'jpeg', 'png']);
 
 // AWS Configuration
-define('AWS_KEY', 'AKIARTGQGAUK4ZW4AW5I');
-define('AWS_SECRET', '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');
+define('AWS_KEY', 'XX.............');
+define('AWS_SECRET', 'XX.............');
 define('AWS_REGION', 'ap-south-1');
-define('AWS_COLLECTION_ID', 'attendance-faces-gpbbsr');
+define('AWS_COLLECTION_ID', 'db_aams');
 
 // Error reporting settings
 error_reporting(E_ALL);
