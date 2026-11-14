@@ -23,7 +23,7 @@ A comprehensive attendance management system that uses AWS Rekognition for facia
 
 ## Requirements
 
-- PHP 8.1 or higher
+- PHP 7.4 or higher
 - SQLite3 extension for PHP
 - GD or Imagick extension for PHP
 - AWS account with Rekognition access
