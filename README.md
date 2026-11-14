@@ -1,4 +1,4 @@
-# Face Recognition Attendance System
+# AAMS- Automated Attendance Management System
 
 A comprehensive attendance management system that uses AWS Rekognition for facial recognition to automate student attendance tracking.
 
