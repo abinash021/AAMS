@@ -19,8 +19,8 @@ define('MAX_UPLOAD_SIZE', 5 * 1024 * 1024); // 5MB
 define('ALLOWED_EXTENSIONS', ['jpg', 'jpeg', 'png']);
 
 // AWS Configuration
-define('AWS_KEY', 'XX.............');
-define('AWS_SECRET', 'XX.............');
+define('AWS_KEY', 'YOUR_AWS_ACCESS_KEY_ID');
+define('AWS_SECRET', 'YOUR_AWS_SECRET_ACCESS_KEY');
 define('AWS_REGION', 'ap-south-1');
 define('AWS_COLLECTION_ID', 'db_aams');
 
